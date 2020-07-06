@@ -13,8 +13,6 @@ while day_index < forecast.length do
   min_temp << minimum_day_temp
   day_index += 1
 end
- 
- 
 min_temp
 end
 
